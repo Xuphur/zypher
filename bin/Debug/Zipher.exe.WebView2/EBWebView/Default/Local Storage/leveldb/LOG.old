@@ -1,0 +1,8 @@
+2024/12/30-15:56:08.028 3a1c Reusing MANIFEST D:\Code\GitHub\Zipher\Zipher\bin\Debug\Zipher.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/30-15:56:08.040 3a1c Recovering log #7
+2024/12/30-15:56:08.041 3a1c Level-0 table #10: started
+2024/12/30-15:56:08.076 3a1c Level-0 table #10: 45660 bytes OK
+2024/12/30-15:56:08.077 3a1c Recovering log #10
+2024/12/30-15:56:08.078 3a1c Reusing old log D:\Code\GitHub\Zipher\Zipher\bin\Debug\Zipher.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000010.log 
+2024/12/30-15:56:08.120 3a1c Delete type=0 #7
+2024/12/30-15:56:08.120 3a1c Delete type=2 #11
